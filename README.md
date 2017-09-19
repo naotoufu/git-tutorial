@@ -6,3 +6,4 @@
     - feature-D
     - develop
     - hotfix-A revert test
+    - rebase reword test
