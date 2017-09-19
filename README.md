@@ -5,4 +5,3 @@
     - feature-C
     - feature-D
     - develop
-    - revert test
