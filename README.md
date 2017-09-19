@@ -8,3 +8,4 @@
     - develop
     - hotfix-A revert test
     - rebase reword test
+    - revert test
