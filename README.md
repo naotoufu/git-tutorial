@@ -6,3 +6,4 @@
     - feature-D
     - old branch
     - develop
+    - hotfix-A revert test
