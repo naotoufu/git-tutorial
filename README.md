@@ -7,3 +7,4 @@
     - old branch
     - develop
     - hotfix-A revert test
+    - rebase reword test
